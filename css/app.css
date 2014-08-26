@@ -1,0 +1,19 @@
+html { position: relative; } 
+
+body {
+	width: 100%;
+	margin: 0 auto;
+	background: #ffffff;
+	-webkit-text-size-adjust: auto;
+	-webkit-font-smoothing: antialiased;
+}
+*, *:before, *:after,  { -webkit-appearance: none; -webkit-border-radius: 0; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+a, a:active, a:hover{ outline: none; text-decoration: none; color:#999 }
+a:hover{ outline: none; text-decoration: underline; color:#EE6459; }
+ol, ul { list-style: none; padding: 0; margin: 0; }
+img, object, embed { max-width: 100%; }
+img { -ms-interpolation-mode: bicubic; }
+input[type="text"],input[type="email"], input[type="password"], input[type="submit"] { border-radius: 0; -webkit-border-radius: 0; -webkit-appearance: none; }
+.clearfix { overflow: hidden; clear: both; }
+.main-shaining { min-width: 1200px;}
+.container { width: 1170px; margin: 0 auto; padding: 0; position: relative; }
