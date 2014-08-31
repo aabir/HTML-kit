@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
 <meta charset="utf-8">
-<title>Welcome to Botter </title>
+<title>Welcome to ... </title>
 <meta name="description" content="">
 <meta name="author" content="Shible Noman, shblnmn@gmail.com">
 <!-- styles -->
