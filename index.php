@@ -11,10 +11,6 @@
 <link href="css/app.css" rel="stylesheet">
 <!-- styles End -->
 
-<!--[if lt IE 9]>
-    <script src="js/jquery-1.9.0.min.js"></script>
-<![endif]-->
-
 <!--[if (gte IE 6)&(lte IE 8)]>
   <script type="text/javascript" src="js/selectivizr-min.js"></script>
 <![endif]-->
